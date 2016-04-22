@@ -1,0 +1,14 @@
+layout_spectrum: 0.6827957
+typography_spectrum: 0.3106173
+color:
+  saturation: 0.2057659
+  lightness: 0.541259
+  brandStrength: 0.9037423
+  brandColors:
+    - '#FDFDFD'
+    - '#141420'
+    - '#5B7261'
+    - '#E3B594'
+    - '#B7844B'
+  rhythmicContrast: 0.3759069
+name: Albalushi
